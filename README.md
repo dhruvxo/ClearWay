@@ -1,4 +1,4 @@
-# ClearWay: An Overcrowd Detection and Time Recommendation Software
+# ClearWay: An Overcrowd Detection and Time Recommendation Application
 
 This repository contains the necessary code for the **ClearWay** application. It utilises a crowd detection server which is a Python-based RESTful server that uses Flask to detect and manage crowd data for different locations. It interacts with a SQLite database to store and retrieve crowd information, using image processing (via OpenCV and YOLO) to analyze crowd density from uploaded images.
 
